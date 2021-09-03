@@ -82,4 +82,6 @@ Storing and retrieving the items in the storage automat is a complex problem, an
   - blockchain
   - architecture and technology
   - Industry 4.0 (related to the I4.0 Lab)
+    - If you are interessted in a tour in the I4.0 please do let us know, then we will arrange something.. 
 - so if you have any interesting suggestion --- come forward and let's discuss
+
