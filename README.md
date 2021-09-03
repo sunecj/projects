@@ -1,7 +1,7 @@
 # More projects will come...
 
 # Projects
-Contact details: Sune Chung Jepsen, sune@mmmi.sdu.dk
+Contact details: Torben Worm, tow@mmmi.sdu.dk and Sune Chung Jepsen, sune@mmmi.sdu.dk
 
 **Title**: Optimization of storage automata
 
